@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
 <h3 align="center">🎯A passionate Software Engineer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3c51937c-810d-4844-8e5a-ebbc0f4b8509"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hraj46&label=Profile%20views&color=0e75b6&style=flat" alt="hraj46" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hraj46" alt="hraj46" /></a> </p>
