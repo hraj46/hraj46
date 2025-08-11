@@ -41,6 +41,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/hraj46/hraj46/blob/output/github-snake.svg)
+<!-- ![snake gif](https://github.com/hraj46/hraj46/blob/output/github-snake.svg) -->
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 
 </div>
