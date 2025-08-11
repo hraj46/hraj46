@@ -39,4 +39,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hraj46&" alt="hraj46" /></p>
 
+<div align="center">
 
+![snake gif](https://github.com/hraj46/hraj46/blob/output/github-snake.svg)
+
+</div>
